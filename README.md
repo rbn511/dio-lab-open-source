@@ -1,4 +1,6 @@
-# Seja bem vindo meu nome é Rodolfo Begio Neto.
+# Seja bem vindo 
+
+meu nome é Rodolfo Begio Neto.
 
 ## 🙋‍♂️ Sobre mim:
 
