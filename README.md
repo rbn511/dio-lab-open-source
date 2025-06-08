@@ -14,7 +14,7 @@ Boas práticas de programação (Clean Code, testes e arquitetura)
 
 ## 📱 Entre em contato:
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://br.linkedin.com/in/rodolfo-begio-neto-516774165)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rodolfo-begio-neto-516774165)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbn511)
 
